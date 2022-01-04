@@ -1,4 +1,4 @@
-# My Elite Qualifier
+# Elite Qualifier
 
 Simple (or clever and funny?) description
 
