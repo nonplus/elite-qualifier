@@ -17,6 +17,8 @@ This is why this application exists.
 These are the steps to setup your local environment to run this
 application.
 
+Install [python](https://www.python.org/) on your computer.
+
 ## Usage
 
 These are the steps to use the application or interact with it:
