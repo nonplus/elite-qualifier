@@ -19,6 +19,10 @@ application.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+These are the steps to use the application or interact with it:
+
+```
+python main.py
+```
 
 ### Any optional sections
