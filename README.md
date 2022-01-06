@@ -29,4 +29,4 @@ python main.py
 
 ### Any optional sections
 
-- This line is in conflict
+- This line is merged
