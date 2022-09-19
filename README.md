@@ -10,7 +10,7 @@ New revised description
 
 ## Background
 
-This is why this application exists.
+Demonstrating how branches work in git.
 
 ## Install
 
