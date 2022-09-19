@@ -1,6 +1,6 @@
 # Elite Qualifier
 
-Simple description
+New revised description
 
 ## Table of Contents
 
