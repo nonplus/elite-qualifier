@@ -1,6 +1,6 @@
 # Elite Qualifier
 
-Simple description
+New revised description
 
 ## Table of Contents
 
@@ -10,7 +10,7 @@ Simple description
 
 ## Background
 
-This is why this application exists.
+Demonstrating how branches work in git.
 
 ## Install
 
