@@ -1,6 +1,6 @@
 # Elite Qualifier
 
-Simple (or clever and funny?) description
+Simple description
 
 ## Table of Contents
 
